@@ -18,8 +18,6 @@
 ### Tuần 1
 Hoàn thành nội dung bài tập Tuần 1 trong Bài tập Canvas
 
-### Tuần 2
-Hoàn thành nội dung bài tập Tuần 2 trong Bài tập Canvas
 Program Control
 ```
 if...else...elseif
@@ -35,6 +33,8 @@ for
 Inheritance
 Encapsulation
 
+### Tuần 2
+Hoàn thành nội dung bài tập Tuần 2 trong Bài tập Canvas
 
 
 ### Tuần 6
