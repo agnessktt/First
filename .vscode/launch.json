@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Break",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Break",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Launch App",
             "request": "launch",
             "cwd": "${workspaceFolder}",
