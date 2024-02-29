@@ -1,10 +1,7 @@
 package com.mycompany.app.Week1;
 
-class Number{
-    public int i;
-}
 public class E7 {
-    public static void main(String[] args) {
+    public static void e7 () {
         int day = 4;
         switch (day) {
             case 1:
