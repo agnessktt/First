@@ -2,6 +2,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "E7",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week1.E7",
@@ -47,6 +48,11 @@
             "name": "App",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week1.App",
+=======
+            "name": "Break",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Break",
+>>>>>>> 250e16f1ae18e5d60373e57a6665bd37ba41deed
             "projectName": "my-app"
         },
         {

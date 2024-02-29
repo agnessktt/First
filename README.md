@@ -1,14 +1,23 @@
 # Nhóm 10
+
+- Hoàn thành trách nhiệm.
+- Tinh thần làm việc nhóm tốt.
+- Các thành viên hoà đồng, dễ thương, chăm nghiên cứu học hỏi.
+- Thực hiện sinh viên 5 tốt đầy đủ.
+
+
 ## Thành viên
 
 1. Lê Thị Kiều Trang
 2. Nguyễn Minh Sang
-3. Nguyễn Lệ Thu
+3. Đinh Thị Diệu Linh
+4. Nguyễn Lệ Thu
 
 ## Công việc
 
 ### Tuần 1
 Hoàn thành nội dung bài tập Tuần 1 trong Bài tập Canvas
+
 Program Control
 ```
 if...else...elseif
@@ -24,6 +33,8 @@ for
 Inheritance
 Encapsulation
 
+### Tuần 2
+Hoàn thành nội dung bài tập Tuần 2 trong Bài tập Canvas
 
 
 ### Tuần 6
