@@ -33,8 +33,9 @@ for
 Inheritance
 Encapsulation
 
-### Tuần 2
+
 Hoàn thành nội dung bài tập Tuần 2 trong Bài tập Canvas
+
 
 
 ### Tuần 6
