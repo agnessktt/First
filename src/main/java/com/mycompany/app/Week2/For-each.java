@@ -1,7 +1,7 @@
 package com.mycompany.app.Week2;
 
 class Main {
-    public static void main(String[] args) {
+    public static void foreach () {
         // create an array
         int[] numbers = {3, 9, 5, -5};
 
