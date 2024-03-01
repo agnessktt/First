@@ -1,7 +1,7 @@
 package com.mycompany.app.Week1;
 
 public class BreakandContinue {
-  public static void cc() {
+  public static void bac () {
     for (int i = 0; i < 10; i++) {
       if (i == 5) {
         break;
