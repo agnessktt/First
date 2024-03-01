@@ -1,6 +1,7 @@
 package com.mycompany.app;
 
 import com.mycompany.app.Week1.BreakandContinue;
+import com.mycompany.app.Week2.myMethod2;
 
 public class App {
     static class Book {
@@ -18,7 +19,7 @@ public class App {
         }
     }
     public static void main(String[] args) {
-      BreakandContinue break1 = new BreakandContinue();
-      break1.bac();
+        myMethod2 myMethod = new myMethod2();
+        myMethod.myMethod2();
     }
 }

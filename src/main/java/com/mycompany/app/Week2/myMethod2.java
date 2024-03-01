@@ -1,13 +1,13 @@
 package com.mycompany.app.Week2;
 
 public class myMethod2 {
-    public static void cf() {
+    public static void myMethod2() {
         System.out.println("I just got executed!");
       }
       
-      public static void main(String[] args) {
+      public static void mymethod2() {
         
-      myMethod();
-      myMethod();
+      myMethod2();
+      myMethod2();
       }
 }
