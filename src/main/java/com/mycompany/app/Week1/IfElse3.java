@@ -1,8 +1,8 @@
 package com.mycompany.app.Week1;
 
 
-public class E3 {
-    public static void e3() {
+public class IfElse3 {
+    public static void ifelse3() {
         int x = 50;
         int y = 50;
         if (x == y) {
