@@ -1,6 +1,6 @@
 package com.mycompany.app;
 
-import com.mycompany.app.Week1.BreakandContinue;
+import com.mycompany.app.Week2.myMethod1;
 import com.mycompany.app.Week2.myMethod2;
 
 public class App {
@@ -19,7 +19,7 @@ public class App {
         }
     }
     public static void main(String[] args) {
-        myMethod2 myMethod = new myMethod2();
-        myMethod.myMethod2();
+        myMethod1.myMethodOne();
+        myMethod2.myMethodTwo();
     }
 }
