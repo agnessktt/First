@@ -1,4 +1,4 @@
-package com;
+package com.mycompany.app;
 
 public class NameNumber {
     
