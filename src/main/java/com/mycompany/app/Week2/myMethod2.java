@@ -9,4 +9,4 @@ public class myMethod2 {
       //myMethodTwo();
       //}
 }
-//Chạy code ở phần App.java bằng cách import com.mycompany.app.Week2.myMethod2; sau đó chạy myMethod1.myMethodTwo(); ở main
+//Chạy code ở phần App.java bằng cách import com.mycompany.app.Week2.myMethod2; sau đó chạy myMethod2.myMethodTwo(); ở main
