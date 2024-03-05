@@ -1,4 +1,4 @@
-package com.mycompany.app.Week2;
+package com.mycompany.app.Week2.Code3Methods;
 
 public class myMethod5 {
     public static void checkAge(int age) {
@@ -14,4 +14,4 @@ public class myMethod5 {
       //checkAge(20);
       //}
 
-//Chạy code ở phần App.java bằng cách import com.mycompany.app.Week2.myMethod5; sau đó chạy checkAge(20); ở main
+//Chạy code ở phần App.java bằng cách import com.mycompany.app.Week2.myMethod5; sau đó chạy myMethod5.checkAge(20); ở main

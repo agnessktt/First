@@ -1,4 +1,4 @@
-package com.mycompany.app.Week2;
+package com.mycompany.app.Week2.Code3Methods;
 
 public class myMethod2 {
     public static void myMethodTwo() {
