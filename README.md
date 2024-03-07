@@ -29,12 +29,24 @@ do...while
 for
 ```
 
+---------------- Đã hoàn thành ----------------
+
+
 ### Tuần 2
 Inheritance
 Encapsulation
 
 
 Hoàn thành nội dung bài tập Tuần 2 trong Bài tập Canvas
+
+
+---------------- Đã hoàn thành ----------------
+
+
+### Tuần 3
+
+Hoàn thành nội dung bài tập Tuần 3 trong Bài tập Canvas
+
 
 
 
