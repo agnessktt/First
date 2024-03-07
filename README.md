@@ -4,7 +4,7 @@
 - Tinh thần làm việc nhóm tốt.
 - Các thành viên hoà đồng, dễ thương, chăm nghiên cứu học hỏi.
 - Thực hiện sinh viên 5 tốt đầy đủ.
-
+    " Học tập tốt – Đạo đức tốt – Kỹ năng tốt – Hội nhập tốt – Thể lực tốt "
 
 ## Thành viên
 
