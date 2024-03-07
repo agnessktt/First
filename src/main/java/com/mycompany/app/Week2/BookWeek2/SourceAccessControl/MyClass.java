@@ -1,4 +1,4 @@
-package com.mycompany.app.Week2.BookWeek2.AccessControlE1;
+package com.mycompany.app.Week2.BookWeek2.SourceAccessControl;
 
 public class MyClass {
     //Class definition
