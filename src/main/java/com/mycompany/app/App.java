@@ -33,5 +33,6 @@ public class App {
         System.out.println(myMethod4.myMethodFour(3));
         myMethod5.checkAge(20);
         debug.debug1 ("Ukamo");
+        
     }
 }
