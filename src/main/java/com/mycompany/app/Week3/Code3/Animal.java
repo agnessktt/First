@@ -1,6 +1,6 @@
 package com.mycompany.app.Week3.Code3;
 
-class Animal {
+public class Animal {
     public void animalSound() {
       System.out.println("The animal makes a sound");
     }

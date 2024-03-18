@@ -6,3 +6,5 @@ public class MyClass {
         System.out.println("This method is called from outside the package!");
     }
 }
+
+/*Bài tập 1*/

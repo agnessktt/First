@@ -1,4 +1,4 @@
-package com.mycompany.app.week3.code3;
+package com.mycompany.app.Week3.Code3;
 
 public class Polymorphism {
     public class Animal {
