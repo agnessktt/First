@@ -1,6 +1,6 @@
 package com.mycompany.app.Week2.Code2.CleanupEx2;
 
-public class Ex2 {
+public class CleanupEx2 {
     class StringID {
         private String iStringD = "Initialized at definition";
 
