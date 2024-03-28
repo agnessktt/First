@@ -1,5 +1,5 @@
 package com.mycompany.app.Week2.Code2.CleanupEx1;
-
+  /*Bai tap 1*/
 import com.mycompany.app.Debug.Debug;
 
 public class CleanupEx1 {
@@ -11,3 +11,4 @@ public class CleanupEx1 {
     }
 
 }
+   
