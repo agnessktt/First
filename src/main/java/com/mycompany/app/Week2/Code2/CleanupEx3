@@ -6,10 +6,10 @@ public class CleanupEx3 {
     Debug debug = new Debug();
 
     public CleanupEx3() {
-        debug.debug("Ex3");
+        debug.debug("CleanupEx3");
     }
 
-    public Ex3(String messageString) {
+    public CleanupEx3(String messageString) {
         debug.debug(messageString);
     }
 }
