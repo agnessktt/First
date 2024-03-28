@@ -1,0 +1,13 @@
+package com.mycompany.app.Week2.Code2.CleanupEx1;
+
+import com.mycompany.app.Debug.Debug;
+
+public class CleanupEx1 {
+    Debug debug = new Debug();
+    private String uString;
+
+    public CleanupEx1(){
+        debug.debug(uString);
+    }
+
+}
