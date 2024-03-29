@@ -1,6 +1,5 @@
 package com.mycompany.app.Week2.Code2.Polymorphism.Test;
 
-// Modify Detergent.java so that it uses delegation.
 public class Detergent {
     private String name;
 

@@ -1,6 +1,6 @@
 package com.mycompany.app.Week2.Code2.ReusingClassess;
 
-public class Ex2 {
+public class Exercise2 {
     public class Detergent {
         public void scrub() {
             System.out.println("Detergent.scrub()");
@@ -19,6 +19,5 @@ public class Ex2 {
         public void sterilize() {
             System.out.println("newDetergent.sterilize()");
         }
-
     }
-}
+    }

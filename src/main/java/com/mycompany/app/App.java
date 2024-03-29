@@ -33,7 +33,7 @@ public class App {
         myMethod3.myMethodThree("John");
         System.out.println(myMethod4.myMethodFour(3));
         myMethod5.checkAge(20);
-        debug.debug1 ("Ukamo");
+        debug.Debug ("Ukamo");
         Animal myAnimal = new Animal();
         Animal myPig = new Animal();
         Animal myDog = new Animal();

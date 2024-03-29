@@ -1,7 +1,7 @@
 package com.mycompany.app.Week2.Code2.Polymorphism;
 
 // Order of constructor calls.
-public class Ex11 {
+public class Exercise11 {
     static class Meal {
         Meal() {
             System.out.println("Meal()");

@@ -1,6 +1,6 @@
 package com.mycompany.app.Week2.Code2.ReusingClassess;
 
-public class Ex7 {
+public class Exercise7 {
     public class A {
         private String aValue;
 

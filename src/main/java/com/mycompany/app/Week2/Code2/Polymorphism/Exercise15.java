@@ -1,6 +1,6 @@
 package com.mycompany.app.Week2.Code2.Polymorphism;
 
-public class Ex15 {
+public class Exercise15 {
     class Glyph {
         void draw() {
             System.out.println("Glyph.draw()"); }

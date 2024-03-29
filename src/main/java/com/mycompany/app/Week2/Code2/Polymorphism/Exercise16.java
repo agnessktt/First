@@ -3,7 +3,7 @@ package com.mycompany.app.Week2.Code2.Polymorphism;
 //: polymorphism/Transmogrify.java
 // Dynamically changing the behavior of an object
 // via composition (the "State" design pattern).
-public class Ex16 {
+public class Exercise16 {
     class Actor {
         public void act() {}
     }

@@ -1,6 +1,6 @@
 package com.mycompany.app.Week2.Code2.ReusingClassess;
 
-public class Ex10 {
+public class Exercise9 {
     class Component1 {
         public Component1() {
             System.out.println("Component1");
@@ -24,10 +24,10 @@ public class Ex10 {
         private Component2 component2;
         private Component3 component3;
 
-        public Root(Component1 c1, Component2 c2, Component3 c3) {
-            component1 = c1;
-            component2 = c2;
-            component3 = c3;
+        public Root() {
+            component1 = new Component1();
+            component2 = new Component2();
+            component3 = new Component3();
             System.out.println("Constructor Root");
         }
     }
@@ -37,13 +37,11 @@ public class Ex10 {
         private Component2 component2;
         private Component3 component3;
 
-        public Stem(Component1 c1, Component2 c2, Component3 c3) {
-            super(c1, c2, c3);
-            component1 = c1;
-            component2 = c2;
-            component3 = c3;
+        public Stem() {
+            component1 = new Component1();
+            component2 = new Component2();
+            component3 = new Component3();
             System.out.println("Constructor Stem");
         }
     }
-
 }

@@ -1,6 +1,6 @@
 package com.mycompany.app.Week2.Code2.ReusingClassess;
 
-public class Ex4 {
+public class Exercise4 {
     public class Base {
         public Base() {
             System.out.println("Base");

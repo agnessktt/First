@@ -1,6 +1,6 @@
 package com.mycompany.app.Week2.Code2.ReusingClassess;
 
-public class Ex5 {
+public class Exercise5 {
     public class A {
         public A() {
             System.out.println("Call A");

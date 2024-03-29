@@ -1,6 +1,6 @@
 package com.mycompany.app.Week2.Code2.Polymorphism;
 
-public class Ex13 {
+public class Exercise13 {
 
     public Shared getShared() {
         return new Shared();
@@ -28,7 +28,7 @@ public class Ex13 {
         }
 
         public void finalize2() {
-            System.out.println("Finalizing " + new Ex13());
+            System.out.println("Finalizing " + new String());
         }
     }
 

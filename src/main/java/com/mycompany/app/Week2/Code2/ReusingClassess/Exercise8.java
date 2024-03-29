@@ -1,6 +1,6 @@
 package com.mycompany.app.Week2.Code2.ReusingClassess;
 
-public class Ex8 {
+public class Exercise8 {
     public class Base {
         private int baseValue;
 
